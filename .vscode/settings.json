@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3f4766db-7aad-4687-92f6-877ec2104537/microsoft.web/sites/subscriptions/3f4766db-7aad-4687-92f6-877ec2104537/resourceGroups/BlackAndVeatchRG/providers/Microsoft.Web/sites/BlackAndVeatchSinglePageWebApp",
+    "appService.deploySubpath": "dist"
+}

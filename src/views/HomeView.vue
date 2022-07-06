@@ -2,6 +2,8 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+    <div>blackandveatchfrontdoor-gbesd3hdc0hhdcdt.z01.azurefd.net</div>
+    <div>Origin: blackandveatchstorage.blob.core.windows.net</div>
   </div>
 </template>
 
