@@ -1,9 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <img alt="Vue logo" src="https://blackandveatchstorage.blob.core.windows.net/www/BlackAndVeatch.jpeg" />
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
-    <div>blackandveatchfrontdoor-gbesd3hdc0hhdcdt.z01.azurefd.net</div>
-    <div>Origin: blackandveatchstorage.blob.core.windows.net</div>
+    <p>blackandveatchfrontdoor-gbesd3hdc0hhdcdt.z01.azurefd.net</p>
+    <p>Origin: blackandveatchstorage.blob.core.windows.net</p>
   </div>
 </template>
 
